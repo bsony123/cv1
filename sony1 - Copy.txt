@@ -1,0 +1,116 @@
+<html>
+<head>
+<title> curriculum vitae </title>
+</head>
+<body>
+<table>
+<tr>
+<td> <img src="sony.jpg" width="200px" height="200px"> </td>
+<td><h1> Sony Baniya</h1>
+<p>Adress"Dhapakhel,lalitpur</p>
+<p>Email:sonybaniya855@gmail.com</p>
+<p>Contact no:9881462069</P>
+</td>
+</tr>
+</table>
+<hr>
+<h3>personal Information</h3>
+<table>
+<tr>
+<td>Date of birth</td>
+<td>: 2000-2-13</td>
+</tr>
+<tr>
+<td> Gender</td>
+<td>: Fe </td>
+</tr>
+<tr>
+<td>Religion</td>
+<td>:Hinduism</td>
+</tr>
+<tr>
+<td>Marital status</td>
+<td>: single</td>
+</tr>
+<tr>
+<td>Language</td>
+<td>: Nepali,Hindi and English </td>
+</tr>
+</table>
+<hr>
+<h4><u>Acadamic QUALIFCATIONS</u></h4>
+<table border="4">
+<tr>
+<th>Name of degree</th>
+<th>Institution</th>
+<th>Board</th>
+<th>major subject</th>
+<th>passed year</th>
+<th>GPA</th>
+</tr>
+<tr>
+<td>Bachelors</td>
+<td>Nesfield International college</td>
+<td>TU</td>
+<td>computer</td>
+<td>2080</td>
+<td>3.45</td>
+</tr>
+<tr>
+<td>+2</td>
+<td>Moliss college</td>
+<td>NEB</td>
+<td>Science</td>
+<td>2076</td>
+<td>2.8</td>
+</tr>
+<tr>
+<td>SEE</td>
+<td>Little Angel's school</td>
+<td>NEB</td>
+<td>Englsh</td>
+<td>2073</td>
+<td>3.2</td>
+</tr>
+</table>
+<hr>
+<h4><u>Hobbies</u></h4>
+<ol>
+<li><b>Travelling</b></li>
+<li><b>studing books</b></li>
+<li><b>Dancing and singing</b></li>
+</ol>
+<hr>
+<h4><u>Skills</u></h4>
+<Ul>
+<li><b> C programming</b></li>
+<li><b> Java</b></li>
+<li><b> Adobe photoshop</b></li>
+<li><b>Html and css</b></li>
+</ul>
+<hr>
+<h4><u>Working Experience</u></h4>
+<h5> Software developer intern</h5>
+<ul>
+<li>Tested software applications and patches</li>
+<li>Worked across the software development life cycle</li>
+<li>Selected as a top performing intern by technology team</li>
+</ul>
+<hr>
+<h4><u>Training</u></h4>
+CI diploma from complete institution of computer and mobile
+<hr>
+<h4><u>References</u></h4>
+<ul>
+<li><p>Ganabahadur sapkota<br>complete institution of computer applications<br>satdobato,lalitpur<br>01-5556780</p></li>
+<li><p>Mr.Rishabh jha(AI ethusian)<br>Artificial Info TEch pvt.ltd<br>Bagbazar,kathmandu<br>01-2234567</p></li>
+</ul>
+</body>
+</html>
+
+
+
+
+
+
+
